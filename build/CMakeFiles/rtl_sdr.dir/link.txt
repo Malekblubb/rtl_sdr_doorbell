@@ -1,0 +1,1 @@
+clang++  -std=c++1z -O3  -rdynamic CMakeFiles/rtl_sdr.dir/main.cpp.o  -o rtl_sdr -lrtlsdr 

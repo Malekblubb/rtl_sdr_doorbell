@@ -1,0 +1,3 @@
+/home/mlk/Documents/_projects/rtl_sdr/build/CMakeFiles/rebuild_cache.dir
+/home/mlk/Documents/_projects/rtl_sdr/build/CMakeFiles/rtl_sdr.dir
+/home/mlk/Documents/_projects/rtl_sdr/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mlk/Documents/_projects/rtl_sdr/main.cpp
+chrono
+-
+iostream
+-
+rtl-sdr.h
+-
+thread
+-
+vector
+-
+
