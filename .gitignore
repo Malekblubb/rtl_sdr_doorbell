@@ -1,7 +1,5 @@
 #Project
-/rectojump*
-/config
-/levels/
+build/
 
 #logs
 *log*.*
